@@ -56,18 +56,18 @@
 ## Connect with Me:
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/zia-ur-rehman63/" target="_blank">
+    <a href="https://www.linkedin.com/in/ahmad-raza112200/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:ziaulrehman6348@gmail.com" target="_blank">
+    <a href="mailto:cathode1122@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://behance.net/your-profile" target="_blank">
+    <!--<a href="https://behance.net/your-profile" target="_blank">
         <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
     </a>
     <a href="https://behance.net/your-profile" target="_blank">
         <img src="https://img.shields.io/badge/Duolingo-053EFF?style=for-the-badge&logo=duolingo&logoColor=white" alt="Behance" />
-    </a>
+    </a>-->
 </p>
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
@@ -94,7 +94,7 @@
   <!-- GitHub Stats Section -->
   <a href="https://github.com/Raza11220">
     <!--<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Meharzain2010&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>-->
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Meharzain2010&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Raza11220&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
   </a>
   <div align='center'>
   <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raza11220&theme=algolia" >
@@ -103,7 +103,7 @@
 
   <!-- Activity Graph -->
   <a href="https://github.com/Raza11220/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meharzain2010&theme=chartreuse-dark&hide_border=true" alt="Saif Ur Rasool github activity graph" style="margin: 10px; border-radius: 10px;" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raza11220&theme=chartreuse-dark&hide_border=true" alt="Ahmad Raza github activity graph" style="margin: 10px; border-radius: 10px;" />
   </a>
 </div>
 
@@ -111,7 +111,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 </div>
 
-## COMPLETED INTERNATIONAL HACKATHONS:
+<!-- ## COMPLETED INTERNATIONAL HACKATHONS:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
   <a href="https://lablab.ai/event/ai-for-connectivity-hackathon/netwizards/mediconnect" target="_blank">
     <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm48fgskd000b356zv4ebb0pv%2Fcm48fgskd000b356zv4ebb0pv_imageLink_ss4ze20y2r.jpg&w=1080&q=75" width="390" alt="Mediconnect">
@@ -134,7 +134,7 @@
 </div>
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
-</div>
+</div> -->
 
 ## Github Trophies:
 
