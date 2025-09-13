@@ -78,7 +78,7 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Zia143?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" height=300px/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Zia143&theme=dark&animated=true" alt="LeetCode Badges" height=300px/>
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ahmad___raza1122&theme=dark&animated=true" alt="LeetCode Badges" height=300px/>
 </div>
 
 <div align="center">
