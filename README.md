@@ -15,6 +15,7 @@
 </p>-->
 
 
+
 <!-- Animated Header -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Ahmad%20Raza%20👋&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20%7C%20Open-Source%20Contributor&descAlignY=60)
 
@@ -43,67 +44,14 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 </div>
 
-## Skill Sets:
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34px"> Skill Sets:
 
-<table align="center"><tr><td valign="top" width="25%">
-  
-### Machine Learning
-<a href="https://github.com/Raza11220/">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,opencv,numpy,pandas,matplotlib,pil,&perline=4" /> 
-</div>
+> Tools, languages, and other things I am working with.
+<a href="https://github.com/abdullahxyz85/">
+<p align="left">
+  <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,antd,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,mysql,jwt,firebase,streamlit,python,java,c,csharp,php,googlecolaboratory,tensorflow,keras,numpy,pandas,huggingface,opencv,yolo,yarn,xampp,leetcode,postman,pycharm,pytorch,fastapi,git,github,githubcopilot,vscode,vercel,v0,kaggle,netlify,svg,notion,slack,discord,chatgpt,anaconda,axios,cursor,powershell" />
+</p>
 </a>
-</td><td valign="top" width="25%">
-
-### Frontend  
-<a href="https://github.com/Raza11220">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,js,react,nextjs,jquery,antdesign&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
-        
-### Backend
-<a href="https://github.com/Raza11220">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=php,mysql,firebase,nodejs,express,mongodb&perline=4" /> 
-</div>
-</a>
-
-</td>
-</tr>
-<tr><td valign="top" width="25%">
-
-### Code Editors  
-<a href="https://github.com/Raza11220">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=vscode,vim,pycharm,&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
-    
-###  Languages
-<a href="https://github.com/Raza11220">
-<div align="center"> 
-    <img src="https://skillicons.dev/icons?i=js,php,cpp,java,latex,python&perline=4" /> 
-</div>
-</a>
-</td><td valign="top" width="25%">
-
-### Others 
-<a href="https://github.com/Raza11220">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,postman,netlify,vite,vercel,heroku,discord,stackoverflow&perline=4" /> 
-</div>
-</a>
- </td> 
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
-</div>
-
 
 ## Connect with Me:
 
