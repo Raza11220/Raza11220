@@ -26,7 +26,7 @@
 
 
 ## About Me:
-- **@[Stanford Code in Place 2025](https://www.linkedin.com/posts/zia-ur-rehman63_codeinplace-icodeguru-teaching-activity-7316573769953669120-GFLM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFi9ZNsBS730JlvcudUp_BZUGk5XmwWSkaM)** Selected as Section Leader among ~1400 all over the world to teach Python to 10-15 group of international students
+- **@[Nasa Space Apps Challenge 2025](https://drive.google.com/file/d/1grAfDLAQm7DlV8XOJmY952xgw9pwrOjF/view?usp=sharing)** Participated in the NASA Space Apps Challenge 2025, collaborating globally to solve real-world space and Earth science problems.
 
 - **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/0e5eb092-a9fa-4dd1-9421-fb3fc12cbb0c.pdf?size=letter)** Solved 9/9 complex puzzles with my team **[Nexa](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**
 - **@[GitHub](https://github.com/Raza11220)** Contributing DSA material daily on GitHub and my achievements.
