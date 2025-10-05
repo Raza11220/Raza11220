@@ -32,7 +32,7 @@
 - **@[GitHub](https://github.com/Raza11220)** Contributing DSA material daily on GitHub and my achievements.
 - **@[LeetCode](https://leetcode.com/u/ahmad___raza1122/)** Solved [30+](https://github.com/Raza11220/Daily_LeetCoding) Data Structures & Algorithms problems on LeetCode.
 - **@[iCodeGuru](https://icode.guru/)**: Provided training on Python Crash Course.
-- @If you want to see how I provide training to my students have a [look](https://github.com/Meharzain2010/Volunteer_Teaching).
+- @If you want to see how I provide training to my students have a [look](https://github.com/Raza11220/Volunteer_Teaching).
 > Let’s connect and collaborate! Feel free to explore my repositories, leave feedback, or reach out for exciting projects and learning together. 😊
 <!-- ---
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -47,7 +47,7 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34px"> Skill Sets:
 
 > Tools, languages, and other things I am working with.
-<a href="https://github.com/abdullahxyz85/">
+<a href="https://github.com/Raza11220/">
 <p align="left">
   <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,antd,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,mysql,jwt,firebase,streamlit,python,java,c,csharp,php,googlecolaboratory,tensorflow,keras,numpy,pandas,huggingface,opencv,yolo,yarn,xampp,leetcode,postman,pycharm,pytorch,fastapi,git,github,githubcopilot,vscode,vercel,v0,kaggle,netlify,svg,notion,slack,discord,chatgpt,anaconda,axios,cursor,powershell" />
 </p>
