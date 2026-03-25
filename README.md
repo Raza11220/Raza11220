@@ -2,159 +2,101 @@
 
 <swap>[![committers.top badge](https://user-badge.committers.top/pakistan/USERNAME.svg)](https://user-badge.committers.top/pakistan/Raza11220) &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=Raza11220)
 
-
-<!--<h1 align="center" style="font-family: 'Times New Roman', Times, serif;">
-  Zia Ur Rehman
-</h1>
-
-<!--<h1 align="center" style="font-family: 'Times New Roman', Times, serif;">Saif Ur Rasool <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">--></h1>
-  <!--<h3 align="center">Section Leader @Stanford Code in Place | CS50x Puzzle Day Winner'25 @Harvard University | Cybersecurity Enthusiast | Information Security System Administrator | AWS   Cloud & Server Security | Bash Scripting | @iCodeGuru</h3>-->
-<!--
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
-</p>-->
-
-
-
 <!-- Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Ahmad%20Raza%20👋&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20%7C%20Open-Source%20Contributor&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20There!%20I'm%20Ahmad%20Raza%20👋&fontSize=35&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60)
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78AFA&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+solving+problems+%26+designing!;Follow+for+coding+content+%26+motivation!" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&width=500&lines=Full+Stack+Developer;Java+Developer;React+Developer;AI+Engineer;Building+Smart+Solutions+🚀" />
 </p>
 
+---
 
+## 👨‍💻 About Me:
 
-## About Me:
-Software Engineer
-- **@[Nasa Space Apps Challenge 2025](https://drive.google.com/file/d/1grAfDLAQm7DlV8XOJmY952xgw9pwrOjF/view?usp=sharing)** Participated in the NASA Space Apps Challenge 2025, collaborating globally to solve real-world space and Earth science problems.
-- **@[LeetCode](https://leetcode.com/u/ahmad___raza1122/)** Solved [30+](https://github.com/Raza11220/Daily_LeetCoding) Data Structures & Algorithms problems on LeetCode.
-> Let’s connect and collaborate! Feel free to explore my repositories, leave feedback, or reach out for exciting projects and learning together. 😊
-<!-- ---
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
------>
-<details id=0 open>
-  
+- 💼 Software Engineer & Problem Solver  
+- 🌐 Full Stack Developer (Frontend + Backend)  
+- ☕ Java Developer (OOP, DSA, Backend Systems)  
+- ⚛️ React Developer (Modern UI/UX)  
+- 🤖 AI Engineer (Computer Vision, NLP, ML Projects)  
+
+- 🚀 Participated in **NASA Space Apps Challenge 2025**
+- 💡 Solved **30+ DSA problems** on LeetCode  
+- 📚 Always learning new technologies & building real-world projects  
+
+> 🔥 *"Code. Build. Innovate. Repeat."*
+
+---
+
+## 🛠️ Tech Stack:
+
+### 💻 Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Frontend:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### ⚙️ Backend:
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring)
+
+### 🤖 AI / ML:
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+
+---
+
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 </div>
 
-## Connect with Me:
+## 🌐 Connect with Me:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/ahmad-raza112200/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:cathode1122@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <!--<a href="https://behance.net/your-profile" target="_blank">
-        <img src="https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-    </a>
-    <a href="https://behance.net/your-profile" target="_blank">
-        <img src="https://img.shields.io/badge/Duolingo-053EFF?style=for-the-badge&logo=duolingo&logoColor=white" alt="Behance" />
-    </a>-->
 </p>
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
-</div>
 
-## LeetCode Stats & DSA
+---
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/ahmad___raza1122?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" height=300px/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ahmad___raza1122&theme=dark&animated=true" alt="LeetCode Badges" height=300px/>
-</div>
+## 📊 LeetCode Stats:
 
 <div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
+  <img src="https://leetcard.jacoblin.cool/ahmad___raza1122?theme=dark&font=Poppins&ext=heatmap" height=300px/>
 </div>
 
+---
 
-### GitHub Stats:
+## 📈 GitHub Stats:
 
-  <!-- GitHub Stats Section -->
 <div align='center'>
 
-  <!-- GitHub Stats Section -->
-  <a href="https://github.com/Raza11220">
-    <!--<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Meharzain2010&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;"/>-->
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Raza11220&langs_count=8&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" style="margin: 10px; border-radius: 10px;" />
-  </a>
-  <div align='center'>
-  <img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raza11220&theme=algolia" >
-<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raza11220&theme=algolia">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Raza11220&layout=compact&theme=chartreuse-dark" />
+
+<img height="140em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raza11220&theme=algolia" />
+
 </div>
 
-  <!-- Activity Graph -->
-  <a href="https://github.com/Raza11220/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raza11220&theme=chartreuse-dark&hide_border=true" alt="Ahmad Raza github activity graph" style="margin: 10px; border-radius: 10px;" />
-  </a>
-</div>
+---
 
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
-</div>
-
-<!-- ## COMPLETED INTERNATIONAL HACKATHONS:
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
-  <a href="https://lablab.ai/event/ai-for-connectivity-hackathon/netwizards/mediconnect" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm48fgskd000b356zv4ebb0pv%2Fcm48fgskd000b356zv4ebb0pv_imageLink_ss4ze20y2r.jpg&w=1080&q=75" width="390" alt="Mediconnect">
-  </a>
-  <a href="https://lablab.ai/event/strawberry-reasoning-with-o1/intellibots/dsa-helper-tool" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm10tscso0007356vztoxtsrn%2Fcm10tscso0007356vztoxtsrn_imageLink_gn1als0cv2.jpg&w=750&q=75" width="390" alt="DSA Helper Tool">
-  </a>
-  <a href="https://lablab.ai/event/ai-agents-hack-with-lablab-and-mindsdb/binaryblitz/cropguard" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fclyo3ojcg000r3b6vhsr9v8p1%2Fclyo3ojcg000r3b6vhsr9v8p1_imageLink_m3420t27.jpg&w=750&q=75" width="390" alt="CropGuard">
-  </a>
-  <a href="https://lablab.ai/event/aistronauts-space-agents-on-a-mission/the-goat/astromind" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm5xsfsfx000q357q5hktprpp%2Fcm5xsfsfx000q357q5hktprpp_imageLink_xm1pbz0a98.jpg&w=1080&q=75" width="390" alt="AstroMind">
-  </a>
-  <a href="https://lablab.ai/event/fall-in-love-with-deepseek/deepfake/medimate" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6ifrxgc000535720vhskc3x%2Fcm6ifrxgc000535720vhskc3x_imageLink_zpbrq0ogw.jpg&w=1080&q=75" width="390" alt="MediMate">
-  </a>
-  <a href="https://lablab.ai/event/generative-ai-hackathon-with-ibm-granite/automaters/chainsink" target="_blank">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%2Fevents%2Fcm6rtr6pf000c356ytb4y55ol%2Fcm6rtr6pf000c356ytb4y55ol_imageLink_hv3320ir6.jpg&w=1080&q=75" width="390" alt="ChainSink">
-  </a>
-</div>
-<div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
-</div> -->
-
-## Github Trophies:
+## 🏆 GitHub Trophies:
 
 <div align="center">
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Raza11220&theme=chartreuse-dark&row=1&column=7)
-<!--
+
 </div>
-<div align='center'>
-<img src="https://raw.githubusercontent.com/theosaffire/theosaffire/output/snake.svg" alt="Snake animation" />
-</div>-->
 
+---
 
-
-<!--<pre>
-                                  ___           ___           ___       ___       ___     
-                                 /\__\         /\  \         /\__\     /\__\     /\  \    
-                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
-                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
-                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-                                 \/__/         \/__/         \/__/     \/__/     \/__/    
-</pre> -->
-<!--###
-
-<picture>
-  <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="Pacman">
-</picture>-->
-
-###
 <h3 align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
