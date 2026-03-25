@@ -34,7 +34,6 @@ Software Engineer
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ----->
 <details id=0 open>
-<summary><h2>MORE TO VISIT</h2></summary>
   
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
