@@ -87,16 +87,6 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Raza11220&theme=chartreuse-dark&row=1&column=7)
-
-</div>
-
----
-
 <h3 align="center">
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
