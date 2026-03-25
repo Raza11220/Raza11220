@@ -26,13 +26,9 @@
 
 
 ## About Me:
+Software Engineer
 - **@[Nasa Space Apps Challenge 2025](https://drive.google.com/file/d/1grAfDLAQm7DlV8XOJmY952xgw9pwrOjF/view?usp=sharing)** Participated in the NASA Space Apps Challenge 2025, collaborating globally to solve real-world space and Earth science problems.
-
-- **@[Harvard CS50x Puzzle Day 2025](https://certificates.cs50.io/0e5eb092-a9fa-4dd1-9421-fb3fc12cbb0c.pdf?size=letter)** Solved 9/9 complex puzzles with my team **[Nexa](https://docs.google.com/spreadsheets/d/e/2PACX-1vSZFaNKFopIUkdy2N5qp6iA4Ij3BMtobtCRlDxLbGfrB3oupAnvHdX4tN8JEWpKkfY7DnhXORk66mB9/pubhtml)**
-- **@[GitHub](https://github.com/Raza11220)** Contributing DSA material daily on GitHub and my achievements.
 - **@[LeetCode](https://leetcode.com/u/ahmad___raza1122/)** Solved [30+](https://github.com/Raza11220/Daily_LeetCoding) Data Structures & Algorithms problems on LeetCode.
-- **@[iCodeGuru](https://icode.guru/)**: Provided training on Python Crash Course.
-- @If you want to see how I provide training to my students have a [look](https://github.com/Raza11220/Volunteer_Teaching).
 > Let’s connect and collaborate! Feel free to explore my repositories, leave feedback, or reach out for exciting projects and learning together. 😊
 <!-- ---
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -43,15 +39,6 @@
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
 </div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34px"> Skill Sets:
-
-> Tools, languages, and other things I am working with.
-<a href="https://github.com/Raza11220/">
-<p align="left">
-  <img src="https://skills.syvixor.com/api/icons?i=html,css,css3,sass,tailwind,bootstrap,js,ts,react,vite,reactrouter,redux,materialui,shadcnui,antd,nextjs,reactnative,figma,npm,nodejs,express,ejs,mongodb,mysql,jwt,firebase,streamlit,python,java,c,csharp,php,googlecolaboratory,tensorflow,keras,numpy,pandas,huggingface,opencv,yolo,yarn,xampp,leetcode,postman,pycharm,pytorch,fastapi,git,github,githubcopilot,vscode,vercel,v0,kaggle,netlify,svg,notion,slack,discord,chatgpt,anaconda,axios,cursor,powershell" />
-</p>
-</a>
 
 ## Connect with Me:
 
