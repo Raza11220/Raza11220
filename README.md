@@ -14,7 +14,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;React+Native+Developer;Full+Stack+Developer;Java+Backend+Developer;AI+Engineer;Building+Smart+Solutions+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;React+Native+Developer;Full+Stack+Developer;Java+Backend+Developer;Building+Smart+Solutions+🚀"/>
 
 </p>
 
@@ -181,13 +181,13 @@ class AhmadRaza {
 
 | Project | Tech Stack |
 |----------|------------|
-| 🤖 AI Medicine Reminder & Tracker | React Native, AI, Firebase |
+| 🤖 AI Student Assistant App | React Native, AI, Firebase |
 | 🍔 Food Delivery Mobile App | React Native, Firebase |
 | 🎓 AI Hub | React Native, TypeScript |
-| 🏥 Hospital Management System | HTML, CSS, JavaScript |
-| 📝 Quiz Management System | Java |
+| 📚 Library Management System | React.js, Supabase, Vercel Deploy |
+| ✈️ Flight Route Optimizer System | Java |
 | 🌐 Personal Portfolio Website | React.js |
-| 📱 Student Utility App | React Native |
+| 📱 Air Drawing System | OpenCV, Mediapipe, AI |
 
 ---
 
