@@ -10,7 +10,7 @@
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Ahmad%20Raza&fontSize=45&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20|%20React%20Native%20Developer%20|%20Full%20Stack%20Developer%20|%20AI%20Engineer&descAlignY=63"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=Ahmad%20Raza&fontSize=45&fontAlign=50&fontAlignY=40&desc=Software%20Engineer%20|%20React%20Native%20Developer%20|%20Full%20Stack%20Developer%20|%20ArtificialI%20Intelligence&descAlignY=63"/>
 
 <p align="center">
 
