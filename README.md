@@ -53,6 +53,8 @@ class AhmadRaza {
 
 # 🏆 Achievements
 
+🏆 International Computer Science Competition (ICSC) 2026
+
 🏆 SOFTEC'26 Participant
 
 🚀 NASA Space Apps Challenge 2025 Participant
@@ -181,9 +183,9 @@ class AhmadRaza {
 
 | Project | Tech Stack |
 |----------|------------|
+| ✂️ Bg-Removal | React JS, Express, Clerk, MongoDB|
 | 🤖 AI Student Assistant App | React Native, AI, Firebase |
 | 🍔 Food Delivery Mobile App | React Native, Firebase |
-| 🎓 AI Hub | React Native, TypeScript |
 | 📚 Library Management System | React.js, Supabase, Vercel Deploy |
 | ✈️ Flight Route Optimizer System | Java |
 | 🌐 Personal Portfolio Website | React.js |
