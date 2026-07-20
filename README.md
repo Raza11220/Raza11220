@@ -183,7 +183,7 @@ class AhmadRaza {
 
 | Project | Tech Stack |
 |----------|------------|
-| ✂️ Bg-Removal | React JS, Express, Clerk, MongoDB|
+| ✂️ Bg-Removal SaaS App | React JS, Express, Clerk, MongoDB|
 | 🤖 AI Student Assistant App | React Native, AI, Firebase |
 | 🍔 Food Delivery Mobile App | React Native, Firebase |
 | 📚 Library Management System | React.js, Supabase, Vercel Deploy |
